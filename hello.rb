@@ -1,1 +1,1 @@
-hello ami
+i love ruby
